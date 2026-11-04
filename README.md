@@ -1,5 +1,6 @@
 # sistema-academia
 Backlog de requisitos do Sistema de Gerenciamento de Academia - Engenharia de Software.
+
 ## Arquitetura
 
 O projeto usa arquitetura em camadas:
